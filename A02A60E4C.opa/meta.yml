@@ -1,0 +1,19 @@
+id: A02A60E4C
+title: A Prayer to Parṇaśavarī
+type: translation
+pechas:
+- IABC6C777
+- I41141CD8
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:43.285466
+  last_modified_at: 2023-01-04 11:46:43.285481
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IABC6C777/82C5: 0D4D
+  I41141CD8/8AD0: 0D4D
